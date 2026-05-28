@@ -22,9 +22,7 @@ This repository is dedicated to tracking bugs, issues, and feature requests for 
    - **Java version** and **RAM allocated** to Minecraft
 
 ### Where to Get Help:
-- 🔗 **Modrinth**: [Liminal Dread on Modrinth](https://modrinth.com)
-- 💬 **Discord**: (Add your Discord link if you have one)
-- 📧 **Email**: (Add your contact if you prefer)
+- 📧 **Email**: (LiminalDread@outlook.com)
 
 ## 🎯 Issue Labels
 
@@ -40,7 +38,7 @@ Issues are organized by type:
 
 - Please be respectful and constructive in your feedback
 - Duplicate reports will be closed (but you'll get credit if you find one first!)
-- We'll do our best to respond, but we may not fix everything immediately
+- I'll do my best to respond, but we may not fix everything immediately
 
 ## 🙏 Thanks!
 
